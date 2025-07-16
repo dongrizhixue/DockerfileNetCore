@@ -1,0 +1,6 @@
+@ShadowNetCore.WebAPI_HostAddress = http://localhost:5147
+
+GET {{ShadowNetCore.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
